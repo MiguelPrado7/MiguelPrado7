@@ -15,7 +15,7 @@ Sou um estudante do 2º ano do Ensino Médio integrado ao curso Técnico de Jogo
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-*(Edite os links abaixo de acordo com as ferramentas que você usa. Você pode encontrar mais ícones em [Devicon](https://devicon.dev/))*
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
